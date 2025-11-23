@@ -79,7 +79,7 @@ Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena 
 ## 💾 Storytelling
 
 📄 **Informe PDF:**  
-[📑 Alura Store Storytelling](https://github.com/jorgevillegazz/Python_Challenge_1/edit/main/README.md)
+[📑 Alura Store Storytelling]((https://github.com/jorgevillegazz/Python_Challenge_1/blob/main/Sorytelling_AluraStore01.pdf))
 
 > El storytelling presenta los hallazgos clave del análisis y la justificación de la recomendación final.
 
