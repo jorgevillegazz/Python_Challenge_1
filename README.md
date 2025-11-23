@@ -72,7 +72,7 @@ Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena 
 ## 📊 Acceso al análisis
 
 🔗 **Notebook en Google Colab:**  
-[📘 Alura Store LATAM - Análisis de Datos](https://colab.research.google.com/github/)
+[📘 Alura Store LATAM - Análisis de Datos](https://colab.research.google.com/github/jorgevillegazz/Python_Challenge_1/blob/main/AluraStoreLatam.ipynb)
 
 ---
 
