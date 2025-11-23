@@ -94,4 +94,4 @@ Puedes usarlo, modificarlo y distribuirlo libremente citando la fuente.
 
 ## ✨ Autor
 **Jorge Alberto Villegas Cárdenas**  
-📧 [LinkedIn](www.linkedin.com/in/jorge-alberto-villegas-cárdenas) | [GitHub](https://github.com/jorgevillegazz)
+📧 [LinkedIn](https://www.linkedin.com/in/jorge-alberto-villegas-cárdenas/) | [GitHub](https://github.com/jorgevillegazz)
